@@ -1,0 +1,11 @@
+transsnet.payment.log.rootPath: "D:/logs"
+logging.config: classpath:logback-common.xml
+management.security.enabled: false
+endpoints.enabled: true
+endpoints.env.enabled: true
+endpoints.metrics.enabled: true
+endpoints.health.enabled: true
+endpoints.info.enabled: true
+endpoints.trace.enabled: true
+endpoints.refresh.enabled: true
+
